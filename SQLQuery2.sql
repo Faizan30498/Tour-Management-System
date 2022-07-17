@@ -1,0 +1,1 @@
+﻿SELECT UpcommingTrips from UserBookedTrips where UpcommingTrips='Turkey'

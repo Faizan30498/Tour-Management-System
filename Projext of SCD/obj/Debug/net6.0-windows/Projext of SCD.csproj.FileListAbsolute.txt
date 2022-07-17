@@ -1,0 +1,90 @@
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.exe
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.AssemblyReference.cache
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.Login_main_page.resources
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.GenerateResource.cache
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.AssemblyInfoInputs.cache
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.AssemblyInfo.cs
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.CoreCompileInputs.cache
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\refint\Projext of SCD.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.pdb
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.deps.json
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.runtimeconfig.json
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.pdb
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.genruntimeconfig.cache
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\ref\Projext of SCD.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.AdminGUI.resources
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.UserGUI.resources
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.CopyComplete
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.signGUI.resources
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.HotelGUI.resources
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.Properties.Resources.resources
+C:\Users\power\Desktop\lab 14\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.Booked_trips.resources
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.exe
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.deps.json
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.runtimeconfig.json
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.pdb
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.AssemblyReference.cache
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.AdminGUI.resources
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.Booked_trips.resources
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.HotelGUI.resources
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.UserGUI.resources
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.Login_main_page.resources
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.Properties.Resources.resources
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.signGUI.resources
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.GenerateResource.cache
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.AssemblyInfoInputs.cache
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.AssemblyInfo.cs
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.CoreCompileInputs.cache
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.CopyComplete
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\refint\Projext of SCD.dll
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.pdb
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.genruntimeconfig.cache
+C:\Users\power\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\ref\Projext of SCD.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.exe
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.deps.json
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.runtimeconfig.json
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\Projext of SCD.pdb
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.AssemblyReference.cache
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.AdminGUI.resources
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.Booked_trips.resources
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.HotelGUI.resources
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.GUI.UserGUI.resources
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.Login_main_page.resources
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.Properties.Resources.resources
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext_of_SCD.signGUI.resources
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.GenerateResource.cache
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.AssemblyInfoInputs.cache
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.AssemblyInfo.cs
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.CoreCompileInputs.cache
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.csproj.CopyComplete
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\refint\Projext of SCD.dll
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.pdb
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\Projext of SCD.genruntimeconfig.cache
+C:\Users\ch33t\Desktop\Projext of SCD\Projext of SCD\obj\Debug\net6.0-windows\ref\Projext of SCD.dll
